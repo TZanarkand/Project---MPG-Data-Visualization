@@ -15,5 +15,4 @@
 - Relationship between Vehical Class and MPG by Highway and City MPG
 - Count of Displ
 - Average City MPG by Car Type
-
-[Project-MPG-Viz.pdf](https://github.com/user-attachments/files/17977811/Project-MPG-Viz.pdf)
+# สามารถดู output ได้จากไฟล์ pdf
